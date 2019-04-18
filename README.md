@@ -5,9 +5,9 @@ Hi, I am Lisa Tsai (Yu-Chi Tsai) from Taiwan. I graduated from Physics Departmen
 ## Education
 **National Taiwan University (NTU)**, Taipei, Taiwan  
 
-***Sep 2012 – Aug 2016***   
+**Sep 2012 – Aug 2016**   
 _Bachelor of Physics_ 
-***Sep 2016 – Aug 2018***   
+**Sep 2016 – Aug 2018**   
 _Master of Bio-Industrial Mechatronics Engineering_
  
 
@@ -34,20 +34,20 @@ ICVR
 ## Research Experience and Awards
 
 ## Work Experience
-***Feb 2013 – July 2013***  
-**Teaching Assistant**, T-type Talent Workshop – Smart Aging Alliance, Taiwan  
-***Sep 2012 – Aug 2017***  
-**Lecturer / Engineer**, CAVEDU Education team, Taiwan  
-***Sep 2018 – Present***  
-**Research Assistant**, National Taiwan University, Taiwan  
+**Feb 2013 – July 2013**  
+_Teaching Assistant_, T-type Talent Workshop – Smart Aging Alliance, Taiwan  
+**Sep 2012 – Aug 2017**  
+_Lecturer / Engineer_, CAVEDU Education team, Taiwan  
+**Sep 2018 – Present**  
+_Research Assistant_, National Taiwan University, Taiwan  
 _Biophotonics and Bioimaging Laboratory, Prof. Ta-Te Lin_
 (need to adjust)･ Build websites to show real-time lab research results on website
 ･ Wrote a program and build circuits to control electronic devices in a cattle farm via raspberry pi 3
 ･ Designed protective shell for raspberry pi 3 and other devices using Solidworks and AutoCAD
 
 ## Extracurricular Activities
-***Jan 2016 – Jan 2017***  
-**Co-Founder / Lecturer, NTU Maker Club**
+**Jan 2016 – Jan 2017**  
+_Co-Founder / Lecturer, NTU Maker Club_
 + 準備課程教材(Raspberry Pi & Arduino)，及專案指導
 + Participate in many community service events, such as providing services at an elder care and rehabilitation center
 
