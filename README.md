@@ -29,17 +29,21 @@ _Master of Bio-Industrial Mechatronics Engineering_
 ### Oral Presentation
 ICVR
 ### Book
-樂高兩本 Linkit one. RS 官方文件翻譯
++ [機器人程式超簡單： LEGO® MINDSTORMS® EV3 動手作](https://www.books.com.tw/products/0010619296?gclid=EAIaIQobChMIqeKUu-zZ4QIVUwUqCh2ErQVFEAQYBSABEgJ8MfD_BwE)
++ [機器人程式超簡單：LEGO® MINDSTORMS® EV3動手作（專題卷)](https://www.books.com.tw/products/0010709642?loc=P_asb_002)
++ [實戰物聯網 LinkIt Smart 7688 Duo](https://www.books.com.tw/products/0010752599?loc=P_asb_004)
++ (Translation)[DesignSpark Mechanical Guidebook Part1](https://designspark.zendesk.com/hc/zh-cn/article_attachments/360004653633/Guidebook_DesignSpark_PCB_Eng.pdf) [DesignSpark Mechanical Guidebook Part2](https://www.shapeways.com/forum/attachments/designspark-mechanical-guidebook-pdf.240347/)
+
 
 ## Research Experience and Awards
 
 ## Work Experience
 **Feb 2013 – July 2013**  
-_Teaching Assistant_, T-type Talent Workshop – Smart Aging Alliance, Taiwan  
+***Teaching Assistant***, T-type Talent Workshop – Smart Aging Alliance, Taiwan  
 **Sep 2012 – Aug 2017**  
-_Lecturer / Engineer_, CAVEDU Education team, Taiwan  
+***Lecturer / Engineer***, CAVEDU Education team, Taiwan  
 **Sep 2018 – Present**  
-_Research Assistant_, National Taiwan University, Taiwan  
+***Research Assistant***, National Taiwan University, Taiwan  
 _Biophotonics and Bioimaging Laboratory, Prof. Ta-Te Lin_
 (need to adjust)･ Build websites to show real-time lab research results on website
 ･ Wrote a program and build circuits to control electronic devices in a cattle farm via raspberry pi 3
@@ -47,7 +51,7 @@ _Biophotonics and Bioimaging Laboratory, Prof. Ta-Te Lin_
 
 ## Extracurricular Activities
 **Jan 2016 – Jan 2017**  
-_Co-Founder / Lecturer, NTU Maker Club_
+***Co-Founder / Lecturer, NTU Maker Club***
 + 準備課程教材(Raspberry Pi & Arduino)，及專案指導
 + Participate in many community service events, such as providing services at an elder care and rehabilitation center
 
