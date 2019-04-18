@@ -1,19 +1,20 @@
-## Welcome to Lisa's AboutMe
+# Welcome to Lisa's AboutMe
 
 Hi, I am Lisa Tsai (Yu-Chi Tsai) from Taiwan. I graduated from Physics Department of National Taiwan University, and got my master's degree in Bio-Industrial Mechatronics Engineering in NTU as well. My research is mainly about Image processing and Deep Learning.
 
-### Education
+## Education
+**National Taiwan University (NTU)**, Taipei, Taiwan
+_Bachelor of Physics_  Sep 2012 – Aug 2016 
 
-2012-2016 Bachelor's Degree - Physics Department of National Taiwan University  
+_Master of Bio-Industrial Mechatronics Engineering _  Sep 2016 – Aug 2018
+ 
 
-2016-2018 Master's Degree   - Bio-Industrial Mechatronics Engineering of National Taiwan University  
 
-
-### Career
+## Career
 
 2012-2017 
 
-### Contests and Awards
+## Contests and Awards
 
 ### Research Projects
 
