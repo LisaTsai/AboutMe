@@ -1,11 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Lisa's AboutMe
 
-You can use the [editor on GitHub](https://github.com/LisaTsai/AboutMe/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, I am Lisa Tsai (Yu-Chi Tsai) from Taiwan. I graduated from Physics Department of National Taiwan University, and got my master's degree in Bio-Industrial Mechatronics Engineering in NTU as well. My research is mainly about Image processing and Deep Learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+2012-2016 Bachelor's Degree - Physics Department of National Taiwan University
+2016-2018 Master's Degree   - Bio-Industrial Mechatronics Engineering of National Taiwan University
 
+### Career
+
+2012-2017 
+
+### Contests and Awards
+
+### Research Projects
+
+![Image of Drinking Cow](/images/drinking_cow.jpg)
+[Dairy Cow Farm Website](http://140.112.94.128:15011/)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
