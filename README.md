@@ -4,8 +4,9 @@ Hi, I am Lisa Tsai (Yu-Chi Tsai) from Taiwan. I graduated from Physics Departmen
 
 ### Education
 
->2012-2016 Bachelor's Degree - Physics Department of National Taiwan University
->2016-2018 Master's Degree   - Bio-Industrial Mechatronics Engineering of National Taiwan University
++ 2012-2016 Bachelor's Degree - Physics Department of National Taiwan University  
++ 2016-2018 Master's Degree   - Bio-Industrial Mechatronics Engineering of National Taiwan University  
+
 
 ### Career
 
