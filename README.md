@@ -11,17 +11,23 @@ _Master of Bio-Industrial Mechatronics Engineering_ <p align="right">Sep 2016 â€
  
 
 
-## Career
+## Patents
++ Automatic Image Monitoring System of Water-Drinking Frequency of Dairy Cattle  
+  US Patent and Taiwan Patent. Patent pending
++ Application of individual identification of dairy cattle on cattle management system  
+  US Patent and Taiwan Patent. Patent pending
 
-2012-2017 
+## Publications
+Journal Paper
+-----
 
-## Contests and Awards
+## Research Projects
 
-### Research Projects
+![Image of Drinking Cow](/images/drinking_cow.jpg)  
 
->![Image of Drinking Cow](/images/drinking_cow.jpg)
->[Dairy Cow Farm Website](http://140.112.94.128:15011/) 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Dairy Cow Farm Website](http://140.112.94.128:15011/)  
+
+ã„Š
 
 ```markdown
 Syntax highlighted code block
