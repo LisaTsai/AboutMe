@@ -6,17 +6,15 @@ Hi, I am Lisa Tsai (Yu-Chi Tsai) from Taiwan. I graduated from Physics Departmen
 **National Taiwan University (NTU)**, Taipei, Taiwan  
 
 **Sep 2012 – Aug 2016**   
-_Bachelor of Physics_ 
+_Bachelor of Physics_  
 **Sep 2016 – Aug 2018**   
 _Master of Bio-Industrial Mechatronics Engineering_
- 
-
 
 ## Patents
-+ Automatic Image Monitoring System of Water-Drinking Frequency of Dairy Cattle  
-  US Patent and Taiwan Patent. Patent pending
-+ Application of individual identification of dairy cattle on cattle management system  
-  US Patent and Taiwan Patent. Patent pending
++ Automatic Image Monitoring System of Water-Drinking Frequency of Dairy Cattle (1st Inventor) 
+  US Patent and Taiwan Patent. Pending
++ Analysis System and Method for Feeding Milk-Production Livestock (2nd Inventor)
+  US Patent and Taiwan Patent. Pending
 
 ## Publications
 ### Journal Paper
@@ -29,19 +27,25 @@ _Master of Bio-Industrial Mechatronics Engineering_
 ### Oral Presentation
 ICVR
 ### Book
-+ [機器人程式超簡單： LEGO® MINDSTORMS® EV3 動手作](https://www.books.com.tw/products/0010619296?gclid=EAIaIQobChMIqeKUu-zZ4QIVUwUqCh2ErQVFEAQYBSABEgJ8MfD_BwE)
-+ [機器人程式超簡單：LEGO® MINDSTORMS® EV3動手作（專題卷)](https://www.books.com.tw/products/0010709642?loc=P_asb_002)
-+ [實戰物聯網 LinkIt Smart 7688 Duo](https://www.books.com.tw/products/0010752599?loc=P_asb_004)
++ (LEGO EV3/Programming and Assembly)[機器人程式超簡單： LEGO® MINDSTORMS® EV3 動手作](https://www.books.com.tw/products/0010619296?gclid=EAIaIQobChMIqeKUu-zZ4QIVUwUqCh2ErQVFEAQYBSABEgJ8MfD_BwE)
++ (LEGO EV3/Projects)[機器人程式超簡單：LEGO® MINDSTORMS® EV3動手作（專題卷)](https://www.books.com.tw/products/0010709642?loc=P_asb_002)
++ (LinkIt 7688/Tutorial)[實戰物聯網 LinkIt Smart 7688 Duo](https://www.books.com.tw/products/0010752599?loc=P_asb_004)
 + (Translation)[DesignSpark Mechanical Guidebook Part1](https://designspark.zendesk.com/hc/zh-cn/article_attachments/360004653633/Guidebook_DesignSpark_PCB_Eng.pdf) [DesignSpark Mechanical Guidebook Part2](https://www.shapeways.com/forum/attachments/designspark-mechanical-guidebook-pdf.240347/)
 
+## Research Experience
 
-## Research Experience and Awards
+
+## Awards
++ ***Excellent Presentation Award*** - **Y. C. Tsai**, C. Y. Cheng, J. T. Hsu, S. T. Ding, T. T. Lin, 2018. “An Automatic Environmental Monitoring and Cooling System to Reduce Heat Stress in Dairy Cows,” The 9th International Symposium on Machinery and Mechatronics for Agricultural and Biosystems Engineering (ISMAB), pp. 105. 
+
 
 ## Work Experience
 **Feb 2013 – July 2013**  
 ***Teaching Assistant***, T-type Talent Workshop – Smart Aging Alliance, Taiwan  
+  
 **Sep 2012 – Aug 2017**  
 ***Lecturer / Engineer***, CAVEDU Education team, Taiwan  
+  
 **Sep 2018 – Present**  
 ***Research Assistant***, National Taiwan University, Taiwan  
 _Biophotonics and Bioimaging Laboratory, Prof. Ta-Te Lin_
