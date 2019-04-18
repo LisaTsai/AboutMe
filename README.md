@@ -18,7 +18,7 @@ _Master of Bio-Industrial Mechatronics Engineering_ <p align="right">Sep 2016 â€
   US Patent and Taiwan Patent. Patent pending
 
 ## Publications
-<u>Journal Paper</u> 
+<span style="border-bottom:1px;">Journal Paper</span>
 + Conference Paper
 + Oral Presentation
 + Book
