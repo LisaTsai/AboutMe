@@ -5,9 +5,13 @@ Hi, I am Lisa Tsai (Yu-Chi Tsai) from Taiwan. I graduated from Physics Departmen
 ## Education
 **National Taiwan University (NTU)**, Taipei, Taiwan  
 
-_Bachelor of Physics_ <p align="right">Sep 2012 – Aug 2016 </p>
+Sep 2012 – Aug 2016   
 
-_Master of Bio-Industrial Mechatronics Engineering_ <p align="right">Sep 2016 – Aug 2018</p>
+_Bachelor of Physics_ 
+
+
+Sep 2016 – Aug 2018   
+_Master of Bio-Industrial Mechatronics Engineering_
  
 
 
@@ -18,19 +22,44 @@ _Master of Bio-Industrial Mechatronics Engineering_ <p align="right">Sep 2016 �
   US Patent and Taiwan Patent. Patent pending
 
 ## Publications
-<span style="border-bottom:1px;">Journal Paper</span>
-+ Conference Paper
-+ Oral Presentation
-+ Book
+### Journal Paper
++ (AUSMT) T. H. Hsieh, **Y. C. Tsai**, C. J. Kao, Y. M. Chang, and Y. W. Lu, 2013. “A Conceptual Atomic Force Microscope using LEGO for Nanoscience Education,” International Journal of Automation and Smart Technology, 4(2): 113-121.
 
+### Conference Paper
++ **Y. C. Tsai**, C. Y. Cheng, J. T. Hsu, S. T. Ding, T. T. Lin, 2018. “An Automatic Environmental Monitoring and Cooling System to Reduce Heat Stress in Dairy Cows,” The 9th International Symposium on Machinery and Mechatronics for Agricultural and Biosystems Engineering (ISMAB), pp. 105. 
++ C. Y. Kuan, **Y. C. Tsai, C**. Y. Cheng, J. T. Hsu, S. T. Ding, T. T. Lin, 2018. “An Imaging System for Monitoring the Feeding Behavior of Dairy Cows,” Th e 9th International Symposium on Machinery and Mechatronics for Agricultural and Biosystems Engineering (ISMAB), pp. 64.
 
-## Research Projects
+### Oral Presentation
+ICVR
+### Book
+樂高兩本 Linkit one. RS 官方文件翻譯
 
-![Image of Drinking Cow](/images/drinking_cow.jpg)  
+## Research Experience and Awards
 
-[Dairy Cow Farm Website](http://140.112.94.128:15011/)  
+## Work Experience
+Feb 2013 – July 2013  
+**Teaching Assistant**, T-type Talent Workshop – Smart Aging Alliance, Taiwan  
+Sep 2012 – Aug 2017  
+**Lecturer / Engineer**, CAVEDU Education team, Taiwan  
+Sep 2018 – Present  
+**Research Assistant**, National Taiwan University, Taiwan  
+_Biophotonics and Bioimaging Laboratory, Prof. Ta-Te Lin_
+(need to adjust)･ Build websites to show real-time lab research results on website
+･ Wrote a program and build circuits to control electronic devices in a cattle farm via raspberry pi 3
+･ Designed protective shell for raspberry pi 3 and other devices using Solidworks and AutoCAD
 
-ㄊ
+## Extracurricular Activities
+Jan 2016 – Jan 2017  
+**Co-Founder / Lecturer, NTU Maker Club**
++ 準備課程教材(Raspberry Pi & Arduino)，及專案指導
++ Participate in many community service events, such as providing services at an elder care and rehabilitation center
+
+## Media
+[Teach Raspberry Pi and Scratch to elementary school students](https://www.ettoday.net/news/20141020/409878.htm)
+[Teach Robotics](https://www.gvm.com.tw/article.html?id=19557)
+
+## Computer Skills
+(Need to adjust)AutoCAD (AutoLisp), Solidworks, Qt, raspberry pi 3, C++, COMSOL, php, Linux, python, appinventor, MySQL…
 
 ```markdown
 Syntax highlighted code block
